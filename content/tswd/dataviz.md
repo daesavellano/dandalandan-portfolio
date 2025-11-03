@@ -3,11 +3,41 @@ title: "Data Visualization Examples"
 date: 2025-10-21
 draft: false
 type: "page"
-tags: "Template"
 ---
 
 # Data visualization examples
 This page contains example data visualizations from the Telling Stories With Data course, along with appropriate citations, references, and data sources used.
+
+- [Government Debt-to-GDP Ratios](#government-debt-to-gdp-ratios)
+- [Learning Tableau and Datawrapper](#learning-tableau-and-datawrapper)
+    - Tableau: [Trust in Media](#trust-in-media)
+    - Datawrapper: [Popularity of Visualization Types](#popularity-of-datawrapper-visualization-types)
+
+## Government Debt-to-GDP Ratios
+
+In this assignment, I analyzed the government debt-to-GDP ratios of 34 OECD countries from 1995 to 2019. My analysis began with a heatmap that visualized these ratios across all countries and years. This initial view immediately highlighted Japan's 239:1 debt-to-GDP ratio, a striking outlier. Intrigued by this anomaly in a stable economy, I explored the full distribution over time. This confirmed Japan as a consistent outlier, a story I chose to tell in three phases: divergence, a 2008 financial crisis, and signs of a plateau.
+
+<div class='tableauPlaceholder' id='viz1762187300807' style='position: relative'><noscript><a href='#'><img alt='Debt-to-GDP ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GovernmentDebt-to-GDPRatios1995-2019&#47;Debt-to-GDP&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GovernmentDebt-to-GDPRatios1995-2019&#47;Debt-to-GDP' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GovernmentDebt-to-GDPRatios1995-2019&#47;Debt-to-GDP&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1762187300807');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='850px';vizElement.style.height='527px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='850px';vizElement.style.height='527px';} else { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*1.77)+'px';}
+     var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+While the heatmap was useful for spotting this outlier, I thought that the narrative of Japan's divergence from the overall distribution could be put in the forefront. This story was perfectly captured by a boxplot, which highlights Japan as a global outlier while showing the full distribution. I also annotated the boxplots with the three phases I mentioned above, included custom tooltips for on-hover context, and added a trend line so that Japan's trajectory over the years can be on display.
+
+<div class='tableauPlaceholder' id='viz1762187270914' style='position: relative'><noscript><a href='#'><img alt='Japan vs All ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Br&#47;BreakingtheCeiling&#47;JapanvsAll&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BreakingtheCeiling&#47;JapanvsAll' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Br&#47;BreakingtheCeiling&#47;JapanvsAll&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1762187270914');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width='850px';vizElement.style.height='477px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 ## Learning Tableau and Datawrapper
 

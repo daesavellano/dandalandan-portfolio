@@ -41,7 +41,9 @@ For my introductory sketch, I captured the flow of my personal energy levels thr
 ### Sample Data Visualizations
 - [Data Visualization Examples](/tswd/dataviz)
 - [Government Debt-to-GDP Ratios](/tswd/government_debt)
-
+- Outside the Course
+    - [NBA Play-by-Play Analysis](/tswd/basketball)
+    
 ### Critique Assignments
 *Coming soon*
 

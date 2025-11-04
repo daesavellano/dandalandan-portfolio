@@ -274,6 +274,10 @@ menu:
       name: Data Viz Examples
       url: /dandalandan-portfolio/tswd/dataviz/
       weight: 20
+    - identifier: government_debt
+      name: Debt-to-GDP Ratios
+      url: /dandalandan-portfolio/tswd/government_debt/
+      weight: 20
     - identifier: critique
       name: Critique by Design
       url: /dandalandan-portfolio/tswd/critique/
@@ -302,6 +306,12 @@ menu:
       name: GitHub
       post: "Check out my projects"
       url: 'https://github.com/daesavellano'
+      weight: 20
+    - identifier: tableau
+      pre: piechart # can be stars, comments or piechart
+      name: Tableau
+      post: "Check out my visualizations"
+      url: 'https://public.tableau.com/app/profile/danielle.aira.savellano/vizzes'
       weight: 20
   footer:
     - identifier: about

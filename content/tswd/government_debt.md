@@ -1,5 +1,6 @@
 ---
 title: "Government Debt-to-GDP Ratio Data Visualization Examples"
+featured_image: ../assets/images/featured/TSWD_BeyondtheBox.png
 date: 2025-11-03
 draft: false
 type: "page"

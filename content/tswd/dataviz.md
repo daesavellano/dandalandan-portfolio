@@ -1,6 +1,7 @@
 ---
 title: "Data Visualization Examples"
 featured_image: ../assets/images/featured/TSWD_Datawrapper.png
+summary: Compiled example data visualizations from the Telling Stories With Data course, along with appropriate citations, references, and data sources used. These include summaries of other pages on the website.
 date: 2025-10-30
 draft: false
 type: "page"

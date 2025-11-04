@@ -1,6 +1,7 @@
 ---
-title: "Government Debt-to-GDP Ratio Data Visualization Examples"
+title: "Debt-to-GDP Ratios"
 featured_image: ../assets/images/featured/TSWD_BeyondtheBox.png
+summary: Analyzed the government debt-to-GDP ratios of 34 OECD countries from 1995 to 2019. Two sample visualizations are included—a heatmap and a combined box plot and line chart. The final design focuses on Japan as an outlier.
 date: 2025-11-03
 draft: false
 type: "page"

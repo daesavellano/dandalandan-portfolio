@@ -39,7 +39,8 @@ My career goal is to **use data to inform and improve health policy**. I am flex
 For my introductory sketch, I captured the flow of my personal energy levels throughout the day. The x-axis tracks the day's events (not to scale) and the y-axis represents my energy. I went to sleep past midnight, so my energy levels started at zero. My energy rises after waking up and breakfast, but then drains from my bike commute and three back-to-back classes (despite a small spike from enjoying my classes). The graph's biggest spike is from spending time with my boyfriend, which I captured as the main energy-gaining activity of the day (note: it is definitely exaggerated). After that, another class, intramural frisbee, and doomscrolling on Instagram Reels drains my energy until I crash on my bed.
 
 ### Sample Data Visualizations
-*Coming soon*
+- [Data Visualization Examples](/dataviz)
+- [Government Debt-to-GDP Ratios](/government_debt)
 
 ### Critique Assignments
 *Coming soon*

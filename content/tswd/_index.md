@@ -36,13 +36,14 @@ My career goal is to **use data to inform and improve health policy**. I am flex
 
 <img src="/images/posts/tswd/tswd_intro.png" alt="Self-Intro" style="max-width: 100%; height: auto; max-height: 400px;" />
 
-For my introductory sketch, I captured the flow of my personal energy levels throughout the day. The x-axis tracks the day's events (not to scale) and the y-axis represents my energy. I went to sleep past midnight, so my energy levels started at zero. My energy rises after waking up and breakfast, but then drains from my bike commute and three back-to-back classes (despite a small spike from enjoying my classes). The graph's biggest spike is from spending time with my boyfriend, which I captured as the main energy-gaining activity of the day (note: it is definitely exaggerated). After that, another class, intramural frisbee, and doomscrolling on Instagram Reels drains my energy until I crash on my bed.
+For my introductory sketch, I captured the flow of my personal energy levels throughout the day. The x-axis tracks the day's events (not to scale) and the y-axis represents my energy. I went to sleep past midnight, so my energy levels started at zero. My energy rises after waking up and breakfast, but then drains from my bike commute and three back-to-back classes (despite a small spike from enjoying my classes). The graph's biggest spike is from spending time with my boyfriend, which I captured as the main energy-gaining activity of the day (note: it is definitely exaggerated). After that, another class, intramural frisbee, and doomscrolling on Instagram drains my energy until I crash on my bed.
 
 ### Sample Data Visualizations
 - [Data Visualization Examples](/tswd/dataviz)
 - [Government Debt-to-GDP Ratios](/tswd/government_debt)
 - Outside the Course
     - [NBA Play-by-Play Analysis](/tswd/basketball)
+    - [Pittsburgh Redlining](https://public.tableau.com/views/PittsburghRedlining_17625063339580/Redlining?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
 ### Critique Assignments
 *Coming soon*

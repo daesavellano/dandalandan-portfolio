@@ -1,5 +1,6 @@
 ---
 title: "Critique by Design"
+featured_image: ../assets/images/featured/TSWD_Evictions_Draft_2.png
 date: 2025-11-08
 draft: false
 type: "page"
@@ -86,20 +87,22 @@ You can find my ~~first~~ second draft of a solution above. One thing to note is
 
 When I was working on my first draft, one of the first things I did was adding a scale for the city markers. That is one of the main design choices I am *still* reconsidering now. This is mainly because I don't want to compare things that shouldn't be compared due to population sizes (ex. the circle in Pittsburgh vs the circle in New York City). However, my initial justification was showing where the hotspots are.
 
-During my second draft, I decided to remove the secondary circle that was creating the bullseye effect. I realized that it was unnecessary and adding clutter to the map. I also lowered the color's opacity, surrounding it with a white circle to better distinguish with points that are close to each other.
+During my second draft, I decided to remove the secondary circle that was creating the bullseye effect. I realized that it was unnecessary and adding clutter to the map. I also lowered the color's opacity, surrounding it with a white circle to better distinguish with points that are close to each other. The second draft is also where I turned the map into a filter using Tableau Actions. I had one Action that was filtering based on which states are selected and another one for cities. This results in changes for the callout statistics and the bar chart.
 
 ### Choosing Chart Types
 
 The original website used a line chart, but I decided early on to use a bar graph (whether it was based on months, quarters, or years was a harder decision). I also used a window function to show when a bar was above the monthly baseline. One issue I had with having all of the years was that it was difficult to show the month labels, even when I was using the first letter only.
+
+For the bar graph, I was trying to create it so that it would show additional bars over time, but I could not figure out how to do it unless I used a line chart. For now, I simply added a filter that the user can control to select the end date (with the start date being the first on the dataset).
 
 ### Context
 
 I added text on the right side of the visualization to talk about federal eviction moratoriums, which I didn't know about until I looked up information on when eviction filings dropped. I was still finishing high school in the Philippines when the pandemic started so it was not common information to me. I do not know yet if I need a citation somewhere there or if it is common information in the US.
 
 As I do in all my Tableau visualizations, I had tooltips as my best friend. I did this because I was <u>very</u> confused when I was trying to recreate the graphs because I couldn't understand what some of the elements were for. I have learned since then and decided to add what I learned into the visualization. These include:
-- what constitutes the colors on the bars
-- what the baseline is referring to
-- how many filings per year there were beyond percentages of the baseline
+- What constitutes the colors on the bars
+- What the baseline is referring to
+- How many filings per year there were beyond percentages of the baseline
 
 ## Step Four: Test the Solution
 

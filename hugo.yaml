@@ -215,7 +215,7 @@ params:
     heading: "Public Interest Technology"
     content:
       - text: "As a scholar and service leader, I integrate my passion for community into my academic and professional pursuits. I am committed to using technology to address real-world challenges, and to promote equity and justice."
-      - text: "<strong>Click on the projects below to learn more!</strong>"
+      # - text: "<strong>Click on the projects below to learn more!</strong>"
   p5:
     heading: "Stay Up to Date"
     content:
@@ -311,7 +311,7 @@ menu:
       pre: piechart # can be stars, comments or piechart
       name: Tableau
       post: "Check out my visualizations"
-      url: 'https://public.tableau.com/app/profile/danielle.aira.savellano/vizzes'
+      url: 'https://public.tableau.com/app/profile/bytesized/vizzes'
       weight: 20
   footer:
     - identifier: about

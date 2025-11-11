@@ -69,7 +69,13 @@ My idea is to make the map more dynamic. Instead of having it as a static pictur
 
 *Note:* Instead of redesigning every visualization, this redesign focuses on the key components that impact the initial user experience, specifically for the general (layman) audience.
 
-## Step Three: Sketch a Solution
+## Step Three: Sketch and Iterate a Solution
+
+Three drafts were created, all on Tableau. However, only [draft 2](#draft-2) and [draft 3](#draft-3-pre-class-feedback-version) are included below. I put both of them in step 3 so that step 4 can be focused on feedback from our in-class critique.
+
+### Draft 2
+
+My second draft is found below. The goal was to build out the main filtering action (connecting the map to the charts) and test the bar chart concept against the original line chart.
 
 <div class='tableauPlaceholder' id='viz1762602280914' style='position: relative'><noscript><a href='#'><img alt='Dash ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ev&#47;EvictionsintheUSA-Sketch&#47;Dash&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EvictionsintheUSA-Sketch&#47;Dash' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ev&#47;EvictionsintheUSA-Sketch&#47;Dash&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 <script type='text/javascript'>
@@ -81,52 +87,75 @@ My idea is to make the map more dynamic. Instead of having it as a static pictur
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-You can find my ~~first~~ second draft of a solution above. One thing to note is that, I was asking people for feedback from the start of the process. *(Although I <u>was</u> mainly asking my non-data-oriented boyfriend, so most of his comments were along the lines of "wow!!!!" and "that's so cool!!")*. Getting to the second draft was already a very iterative process.
+### Draft 2 Feedback & Changes
+I did a single feedback session for Draft 2. For this session, I wanted to focus on first impressions. Because of this, I sought insights from my friend—a male graduate student studying computer science and unfamiliar with both data analytics and evictions—since he wouldn't necessarily know what people in the TSWD class would look for.
+
+| Question                              | Interview 1                   | Resulting Change from Draft 2 to Draft 3   |
+|---------------------------------------|-------------------------------|-------------------------------|
+|10 second test - What was the first thing that caught your eye?|The map and the big numbers caught my eye, but I could not focus on it due to the amount of text.|Reduced text per textbox.|
+|10 second test - What do you think this dashboard is about?|The dashboard is about evictions and the number of landlords? Not sure what a moratorium is. The text under the big numbers was small. There were 34 states? Not sure, there was a lot of text and the first sentence's wording confused me.|Increased text size, all text has a minimum size 12. Reduced text to one-liners. Moved sources to a tooltip.|
+|*(After noticing user did not intuitively interact/hover)* What would have made it clearer to you that the visualization is interactive?|Instant feedback would be nice so it is clear that it can be clicked.|Due to the use of Tableau Public, I could not find a workaround for instant tooltips (despite it being seen in the server version). Instead, I added a pointer icon with instructions. The hope is that a user would click the pointer icon.|
+|What errors did you run into?|I was able to switch from months to years and quarters. Some of the month labels were also not visible. The baseline did not seem to change based on that. The time filter was hard to use too.|The drill down was not meant to be there and was fixed by creating new `Month` and `Year` fields. Continous `Month` was added to ensure all month labels would be visible. Time filter was removed to reduce clutter.|
+|If you could change one thing about this dashboard to make it clearer, what would it be?|I would change the dots to be the same size, it was hard to click and see smaller dots. The color of the red bars were also unclear because the word "it" was used, but I don't know what "it" refers to.|Accepted suggested for dot size. Changed sentence structure to include "monthly baseline" in the red text as a legend.|
+|Do you have any other comments|Scrolling made it difficult to see everything. It would be nice if black text was used instead of gray. The bars were also too thin|Adjusted height so that everything will fit in one frame and bars will appear thicker. This also greatly improved text size. Gray text was maintained to not distract and add too many colors.|
+
+### Draft 3 (Pre-Class Feedback Version)
+
+Based on the feedback from Draft 2, I created this third draft to bring to class. The changes focused on reducing text, improving clarity, and optimizing the layout to fit on a single, non-scrolling screen. I also included a breakdown of the key decisions that informed the pre-class version (from both Drafts 2 and 3).
+
+<div class='tableauPlaceholder' id='viz1762831560665' style='position: relative'><noscript><a href='#'><img alt='Dash ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ev&#47;EvictionsintheUSA-Sketch3&#47;Dash&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EvictionsintheUSA-Sketch3&#47;Dash' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ev&#47;EvictionsintheUSA-Sketch3&#47;Dash&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1762831560665');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width='850px';vizElement.style.height='677px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 ### Points on the Map
 
-When I was working on my first draft, one of the first things I did was adding a scale for the city markers. That is one of the main design choices I am *still* reconsidering now. This is mainly because I don't want to compare things that shouldn't be compared due to population sizes (ex. the circle in Pittsburgh vs the circle in New York City). However, my initial justification was showing where the hotspots are.
+When I was working on my first draft, one of the first things I did was adding a size scale for the city markers to show where the major hotspots were. However, I removed this from my third draft because I did not want to compare things that shouldn't be compared due to population sizes (ex. the circle in Pittsburgh vs the circle in New York City). Based on initial usability testing, the different sizes also made clicking smaller dots difficult.
 
 During my second draft, I decided to remove the secondary circle that was creating the bullseye effect. I realized that it was unnecessary and adding clutter to the map. I also lowered the color's opacity, surrounding it with a white circle to better distinguish with points that are close to each other. The second draft is also where I turned the map into a filter using Tableau Actions. I had one Action that was filtering based on which states are selected and another one for cities. This results in changes for the callout statistics and the bar chart.
 
 ### Choosing Chart Types
 
-The original website used a line chart, but I decided early on to use a bar graph (whether it was based on months, quarters, or years was a harder decision). I also used a window function to show when a bar was above the monthly baseline. One issue I had with having all of the years was that it was difficult to show the month labels, even when I was using the first letter only.
-
-For the bar graph, I was trying to create it so that it would show additional bars over time, but I could not figure out how to do it unless I used a line chart. For now, I simply added a filter that the user can control to select the end date (with the start date being the first on the dataset).
+The original website used a line chart, but I decided early on to use a bar graph (whether it was based on months, quarters, or years was a harder decision). The reason I chose the bar graph was because the original line chart felt like having to mentally calculate the gap between two jagged, moving lines (filings vs. baseline). I found seeing immediately which bars were above the baseline to be very beneficial. To add clarity, I also used a window function to color the bars when above the monthly baseline. 
 
 ### Context
 
-I added text on the right side of the visualization to talk about federal eviction moratoriums, which I didn't know about until I looked up information on when eviction filings dropped. I was still finishing high school in the Philippines when the pandemic started so it was not common information to me. I do not know yet if I need a citation somewhere there or if it is common information in the US.
+I added text on the right side of the visualization to talk about federal eviction moratoriums, which I didn't know about until I looked up information on when eviction filings dropped. In my third graph, I decided to drop the word "moratorium" after feedback saying that many people may not know the word.
 
-As I do in all my Tableau visualizations, I had tooltips as my best friend. I did this because I was <u>very</u> confused when I was trying to recreate the graphs because I couldn't understand what some of the elements were for. I have learned since then and decided to add what I learned into the visualization. These include:
+Another comment I received was to reduce the amount of text, as it was very dense. To reduce the cluttering, I used tooltips to add additional information, including sources and hover instructions. I also shortened sentences where I could. I felt that context was necessary because I was <u>very</u> confused when I was trying to recreate the graphs because I couldn't understand what some of the elements were for. I have learned since then and decided to add what I learned into the visualization. These include:
 - What constitutes the colors on the bars
 - What the baseline is referring to
 - How many filings per year there were beyond percentages of the baseline
 
 ## Step Four: Test the Solution
 
-<!-- _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._ -->
-
-<!-- Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-- Can you describe to me what this is telling you?
-- Is there anything you find surprising or confusing?
+I used Draft 3 during our in-class discussion to conduct a new round of usability testing and to see if the changes were successful. Questions I am interested in asking to see comprehension include the following:
+- 10 second test: Take a quick look at this. What's the main story this dashboard is trying to tell you?
 - Who do you think is the intended audience for this?
-- Is there anything you would change or do differently?
-- What else would you like to know about eviction data? -->
+- Is the interactability intuitive? What was the first thing you wanted to click or hover on?
+- What are your thoughts on the colors, specifically on the bar graph? Are there any special meanings?
+- How would you find the eviction data for just your home state?
+- What do you think is the reason for the surge?
+- Is there anything you find surprising or confusing?
+- What's one thing you find confusing, or one thing you wish you could do that you can't?
 
-Results: 
+### Draft 3 Comments and Changes
 
 <!-- _Don't identify or share personally identifiable information (PII) about the people you spoke to._ -->
 
 
 | Question                              | Interview 1 | Interview 2 |
 |---------------------------------------|-------------|-------------|
-|Can you tell me what you think this is?|             |             |
-|          |             |             |
-|          |             |             |
+|1|             |             |
+|2|             |             |
+|3|             |             |
+|4|             |             |
+|5|             |             |
 
 Synthesis: 
 
@@ -139,9 +168,13 @@ Synthesis:
 ## References
 <!-- _List any references you used here._ -->
 
+Data from Makeover Moday: Monthly Eviction Filings in America (https://data.world/makeovermonday/2023w38)
+
 Eviction Lab. *(n.d.)*. Eviction Tracking System. Retrieved November 8, 2025, from https://evictionlab.org/eviction-tracking/.
 
 Few, Stephen. *(2017)*. “Data Visualization Effectiveness Profile.” Retrieved November 8, 2025 from http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
+
+Smith, L. *(2023)*. Effects of the Federal Eviction Moratorium Being Lifted: The Feared Wave of Evictions That Never Hit. Retrieved from https://law.pepperdine.edu/surf-report/posts/effects-of-federal-eviction-moratorium-being-lifted-lindsey-smith.htm
 
 ## AI acknowledgements
 <!-- _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._ -->

@@ -1,7 +1,8 @@
 ---
 title: "Critique by Design"
-featured_image: ../assets/images/featured/TSWD_Evictions_Draft_2.png
-date: 2025-11-08
+featured_image: ../assets/images/featured/TSWD_Eviction_Lab.png
+date: 2025-11-12
+summary: Redesign for MakeoverMonday 2023/W38. Interactive dashboard of eviction filings across 10 states and 34 cities in the United States from January 2020 to August 2023, with a specific focus on the federal eviction ban.
 draft: false
 type: "page"
 tags: "Template"

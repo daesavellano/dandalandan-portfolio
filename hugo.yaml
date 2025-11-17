@@ -67,12 +67,12 @@ params:
     - "Community-Focused Programming"
     - "Health Care Analytics"
   p1:
-    heading: "About Me"
+    heading: "Hi! I'm Danielle (Dana)"
     image: "../assets/images/pages/proofoflife.png"
     content:
-      - text: "Hi, I'm Danielle (Dana)! I'm a passionate data analyst and healthcare advocate currently pursuing my M.S. in Health Care Analytics and Information Technology at Carnegie Mellon University's Heinz College, where I'm also a Public Policy and International Affairs Fellow."
-      - text: "My journey began with a strong foundation in Biology, Computer Science, and Global Health Studies from Allegheny College, where I graduated Summa Cum Laude and was recognized as a campus scholar and leader."
-      - text: "My mission is to bridge the gap between healthcare and technology through evidence-based, community-focused solutions. My previous experiences have equipped me with the skills to translate complex data into actionable insights that can improve healthcare outcomes and address real-world challenges."
+      - text: "I'm a passionate data analyst and healthcare advocate, finishing my MS in Health Care Analytics and IT at Carnegie Mellon University."
+      - text: "During the pandemic, I graduated from the Philippine Science High School and moved to the U.S. to build my foundation in Biology, Computer Science, and Global Health at Allegheny College. In undergrad, I served as a Bonner Scholar, interned in the Philippines and Columbia University, and completed the Public Policy and International Affairs fellowship before my 3+2 program with CMU."
+      - text: "Growing up, I was surrounded by systemic challenges, which instilled in me a deep calling to find solutions. My mission is to build a career in public interest technology, bridging the gap between healthcare, policy, and data-driven solutions."
   p2:
     heading: "Resume"
     content:

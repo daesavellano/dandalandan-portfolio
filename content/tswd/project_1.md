@@ -6,10 +6,10 @@ type: "page"
 tags: "Template"
 ---
 
-# Outline
+## Outline
 
 
-**Filipinos bring Christmas everywhere—but back home, storms keep many from celebrating at all.**
+### Filipinos bring Christmas everywhere—but back home, storms keep many from celebrating at all.
 
 Filipinos are known for bringing Christmas wherever they go—whether in large, well-established communities in California, Hawaii, Nevada, and New York, or in smaller diasporic pockets like the Filipino American Association of Pittsburgh (FAAP). Across the United States, Filipino Americans recreate the warmth and traditions they grew up with: parols, noche buena, community gatherings, Simbang Gabi, and the unique Filipino spirit of holiday generosity.
 
@@ -19,11 +19,13 @@ This project tells that story through data—using real trends in typhoon freque
 
 By situating storm impacts within a season defined by giving, the project aims to encourage viewers to support families whose holidays have been reshaped by climate-driven calamity. The project was inspired in part by conversations with FAAP leadership, who expressed a desire to advocate for Filipino disaster-relief needs within Pittsburgh’s broader nonprofit community.
 
-**Reader’s Perspective**  
+### Reader’s Perspective
+
 - As a reader, I want to understand how typhoons affect families in the Philippines—especially during the Christmas season—so I can better appreciate the scale of the problem and make informed, meaningful decisions about how to support storm-impacted communities.
 - Target readers are Overseas Filipino Workers, Filipino-Americans, allies, and community members
 
-**Story Arc**
+### Story Arc
+
 ```
 Emotion Level
   ^
@@ -58,23 +60,28 @@ Emotion Level
 
 Text here...
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+## Data Sources
+The project aims to use datasets covering typhoons, regional human impact measures, migration demographics, and remittance flows. The typhoon datasets establish the intensity and distribution of storms across the Philippines from 2014–2024. The impact data provides regional-level damage for only a few typhoons per year. Furthermore, it requires cleaning due to the inclusion of total statistics and regional statistics in addition to provincial statistics.
 
-Text here...
+To connect climate events to diasporic patterns, the project will also draw on demographic data from the Pew Research Center describing U.S.-based Filipino populations from 2000–2023, along with remittance data from the World Bank Group that documents decades of financial flows sent home. Together, these datasets can help situate typhoons within a broader socioeconomic and geographic context, illustrating how extreme weather intersects with migration, remittances, and community vulnerability.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+I have not played with data extensively yet, so it will be exciting to see what type of information I might be able to find. All datasets are accessible to CMU-affiliated accounts on [Box](https://cmu.app.box.com/folder/351579774913?s=t8ojb3kr6i4lgyo87j457zqfy46ys656).
 
-| Name | URL | Description |
+| Name | Source | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|Philippines Monthly Typhoon Trend (2014-2024) |[Kaggle](https://www.kaggle.com/datasets/denvermagtibay/philippines-monthly-typhoon-trend-2014-2024)|Monthly typhoon counts and key global and regional climate indicators; national-level dataset|
+|Philippines Typhoon Impact Regional Data (2014-2020)|[HDX](https://data.humdata.org/dataset/philippines-typhoon-impact-data-2014-2020)|Regional data that requires cleaning; includes people affected and houses damaged from DROMIC reports|
+|Filipino Population in the US (2000, 2010, 2019, 2023)|[Pew Research Center](https://www.pewresearch.org/race-and-ethnicity/fact-sheet/asian-americans-filipinos-in-the-u-s/#:~:text=Geography%20*%201.6%20million%20out%20of%20the,(290%2C000)%20and%20New%20York%20(250%2C000)%20metro%20areas)|This links to an article with interesting statistics about Filipinos living in the United States|
+|Observed Seasonal Cycle (1991-2020)|[World Bank](https://climateknowledgeportal.worldbank.org/country/philippines/climate-data-historical)|[*Supplementary*] Can be used to show a snapshot of Philippine climate trends|
+|Annual Remittance Inflows to the Philippines as Current USD and as % GDP (1977-2024)|[World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.CD.DT?locations=PH)|[*Supplementary*] To showcase long-term global diaspora remittance flows|
+|Historical USD/PHP Conversion Rates (1992-2025)|[Investing.com](https://www.investing.com/currencies/usd-php-historical-data)|[*Supplementary*] Conversion rates to show the power of a dollar|
+|DPWH Flood Control Projects|[Kaggle](https://www.kaggle.com/datasets/bwandowando/dpwh-flood-control-projects)|[*Supplementary*] Likely will be unused; flood control structure projects completed from July 2022 to May 2025|
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+In addition to these data sources, I also aim to read up on a number of newspaper articles from American and Philippine sources, as they might be helpful for framing the story.
 
-Text here...
+## Method and medium
+
+The final visualizations will be developed in **Tableau**, with minor data cleaning and preprocessing done using Excel or Python. The story will be displayed using **Shorthand** and also featured on my personal portfolio. The goal of the project is for users to be able to gather most of the information they need on the topic to be inspired to take action, perform additional research, and spread the word to others. If time permits, I would also like to tackle the fundraising planning aspect of the project. However, that is not a priority since it is outside the scope of the class.
 
 ## References
 _List any references you used here._

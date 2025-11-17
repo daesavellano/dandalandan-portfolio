@@ -8,21 +8,20 @@ tags: "Template"
 
 ## Outline
 
-
 ### Filipinos bring Christmas everywhere—but back home, storms keep many from celebrating at all.
 
-Filipinos are known for bringing Christmas wherever they go—whether in large, well-established communities in California, Hawaii, Nevada, and New York, or in smaller diasporic pockets like the Filipino American Association of Pittsburgh (FAAP). Across the United States, Filipino Americans recreate the warmth and traditions they grew up with: parols, noche buena, community gatherings, Simbang Gabi, and the unique Filipino spirit of holiday generosity.
+Filipinos are known for bringing Christmas wherever we go, typically starting as soon as September 1st. Whether in large, well-established communities (like those in California, Hawaii, Nevada, and New York) or in smaller diasporic pockets (like the Filipino American Association of Pittsburgh or FAAP), Filipinos recreate the warmth and traditions we grew up with: parols, noche buena, caroling, Simbang Gabi, and the Filipino spirit of holiday generosity.
 
-While Filipino communities abroad (or in more affluent parts of the Philippines) come together to celebrate, the story is very different for many families back home. Typhoons have become more frequent, more severe, and more disruptive—often striking during the holiday season and disproportionately affecting vulnerable regions. These storms damage homes and livelihoods, and they also disrupt the emotional core of the holidays, making it difficult or impossible for countless families to celebrate Christmas at all.
+But while Filipino Americans celebrate, many families in the Philippines experience Christmas very differently. Typhoons have become more frequent and more intense, and a lot of them hit during the holiday season. **These storms don’t just damage houses—they interrupt the joy of Christmas.** For some families, it means canceled gatherings, unsafe homes, a lack of electricity, or not being able to celebrate at all.
 
-This project tells that story through data—using real trends in typhoon frequency, regional impact, and affected populations—paired with a narrative that contrasts Filipino joy abroad with Filipino struggle in the Philippines. The goal is not just to show that storms occur (a fact many already know), but to humanize the numbers by focusing on what is lost when disaster hits during the most cherished time of year. Ultimately, the project aims to inspire empathy, awareness, and action among Filipino Americans and their allies, especially those already connected to Filipino culture and community.
+This project aims to use data on typhoon frequency and regional impact to tell that story. The goal isn’t just to show that storms happen (most people already know that), but to help viewers understand what these disasters mean for families during a time that’s supposed to be merry. **I hope the project encourages empathy and action from Filipino Americans and allies**, especially those who already care about the Philippines but might not know how to give help.
 
-By situating storm impacts within a season defined by giving, the project aims to encourage viewers to support families whose holidays have been reshaped by climate-driven calamity. The project was inspired in part by conversations with FAAP leadership, who expressed a desire to advocate for Filipino disaster-relief needs within Pittsburgh’s broader nonprofit community.
+This idea also came from conversations with leaders from FAAP, who said they often **struggle to advocate for storm-related relief when talking to local organizations** in Pittsburgh, especially when headlines across the world come and go so often. I wanted to create something that helps make that case clearer through data and storytelling.
 
 ### Reader’s Perspective
 
 - As a reader, I want to understand how typhoons affect families in the Philippines—especially during the Christmas season—so I can better appreciate the scale of the problem and make informed, meaningful decisions about how to support storm-impacted communities.
-- Target readers are Overseas Filipino Workers, Filipino-Americans, allies, and community members
+- Target readers include Overseas Filipino Workers, Filipino-Americans, allies, and community members.
 
 ### Story Arc
 

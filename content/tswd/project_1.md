@@ -55,9 +55,11 @@ Emotion Level
 2. **Start** your own efforts with a local organization.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+Sketches were made to see how each page would look like using [Canva](https://www.canva.com/design/DAG5CuAUwrA/apSaE_QUrxyX1CVYnXvmLA/edit?utm_content=DAG5CuAUwrA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), along with draft visualizations based on available data. Data will need to be studied further to better understand how to visualize information and communicate the story.
+
+<center><img src="/images/posts/tswd/final_project/part_one/initial_sketches_page_1.png" alt="Page 1" style="max-width: 100%; height: auto;" /></center>
+<center><img src="/images/posts/tswd/final_project/part_one/initial_sketches_page_2.png" alt="Page 2" style="max-width: 100%; height: auto;" /></center>
 
 ## Data Sources
 The project aims to use datasets covering typhoons, regional human impact measures, migration demographics, and remittance flows. The typhoon datasets establish the intensity and distribution of storms across the Philippines from 2014–2024. The impact data provides regional-level damage for only a few typhoons per year. Furthermore, it requires cleaning due to the inclusion of total statistics and regional statistics in addition to provincial statistics.

@@ -56,7 +56,7 @@ Emotion Level
 
 ## Initial sketches
 
-Sketches were made to see how each page would look like using [Canva](https://www.canva.com/design/DAG5CuAUwrA/apSaE_QUrxyX1CVYnXvmLA/edit?utm_content=DAG5CuAUwrA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), along with draft visualizations based on available data. Data will need to be studied further to better understand how to visualize information and communicate the story.
+Sketches were made to see how each page would look like using [Canva](https://www.canva.com/design/DAG5CuAUwrA/apSaE_QUrxyX1CVYnXvmLA/edit?utm_content=DAG5CuAUwrA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), along with draft visualizations based on available data. The sketches are meant to be looked at top to bottom (by column) then left to right, as if they were a continuous website. Data will need to be studied further to better understand how to visualize information and communicate the story.
 
 <center><img src="/images/posts/tswd/final_project/part_one/initial_sketches_page_1.png" alt="Page 1" style="max-width: 100%; height: auto;" /></center>
 <center><img src="/images/posts/tswd/final_project/part_one/initial_sketches_page_2.png" alt="Page 2" style="max-width: 100%; height: auto;" /></center>
@@ -85,7 +85,34 @@ In addition to these data sources, I also aim to read up on a number of newspape
 The final visualizations will be developed in **Tableau**, with minor data cleaning and preprocessing done using Excel or Python. The story will be displayed using **Shorthand** and also featured on my personal portfolio. The goal of the project is for users to be able to gather most of the information they need on the topic to be inspired to take action, perform additional research, and spread the word to others. If time permits, I would also like to tackle the fundraising planning aspect of the project. However, that is not a priority since it is outside the scope of the class.
 
 ## References
-_List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Aspi, A. (2013). Philippines disaster diary: putting a brave face on Christmas. Retrieved from https://www.theguardian.com/global-development/poverty-matters/2013/dec/20/philippines-disaster-diary-christmas-typhoon-haiyan
+
+Bündnis Entwicklung Hilft / IFHV (2025): [WorldRiskReport 2025](https://weltrisikobericht.de/worldriskreport/). Berlin: Bündnis Entwicklung Hilft.
+
+De Guzman, C. (2024). In the Philippines, Typhoons Are Making the Christmas Season Less Merry. Retrieved from https://time.com/7203501/philippines-christmas-typhoons-holiday-spirit-seasonal-climate/
+
+The Humanitarian Data Exchange. (2022). The Philippines - Typhoon Impact Data 2014 - 2020. Retrieved on November 18, 2025 from https://data.humdata.org/dataset/philippines-typhoon-impact-data-2014-2020
+
+Im, C. (2025). Facts about Filipinos in the U.S. Retrieved on November 18, 2025 from https://www.pewresearch.org/race-and-ethnicity/fact-sheet/asian-americans-filipinos-in-the-u-s/
+
+Investing.com. (n.d.). USD/PHP - US Dollar Philippine Peso. Retrieved on November 18, 2025 from https://www.investing.com/currencies/usd-php-historical-data
+
+IOM Regional Office for Asia and the Pacific Regional Data Hub. (2024). Country Factsheet: The Philippines. Retrieved from https://roasiapacific.iom.int/sites/g/files/tmzbdl671/files/documents/2024-12/the-philippines-mecc-factsheet-1.pdf
+
+Losario, L. (2025). DPWH Flood Control Projects. Retrieved on November 18, 2025 from https://www.kaggle.com/datasets/bwandowando/dpwh-flood-control-projects
+
+Magtibay, D. (2025). Philippines Monthly Typhoon Trend (2014-2024). Retrieved on November 18, 2025 from https://kaggle.com/datasets/denvermagtibay/philippines-monthly-typhoon-trend-2014-2024
+
+Mascariñas, E. M. & Mogul, R. (2021). Thousands left homeless and hungry at Christmas as Philippines faces up to climate crisis reality of super typhoon. Retrieved from https://www.cnn.com/2021/12/27/asia/typhoon-rai-odette-philippines-survivors-climate-intl-hnk-dst
+
+World Bank Group. (n.d.). Personal remittances, received (current US$) - Philippines. Retrieved on November 18, 2025 from https://data.worldbank.org/indicator/BX.TRF.PWKR.CD.DT?locations=PH
+
+World Bank Group - Climate Change Knowledge Portal. (n.d.). Philippines - Climatology (CRU). Retrieved on November 18, 2025 from
+https://climateknowledgeportal.worldbank.org/country/philippines/climate-data-historical.
+
+TIME. (2013). Typhoon-Ravaged Philippines Villages Celebrate Christmas. Retrieved from https://world.time.com/2013/12/25/typhoon-ravaged-philippines-villages-celebrate-christmas/photo/a-giant-christmas-lantern-is-seen-in-a-devastated-area-of-magallanes-town-tacloban-city-central-philippines/
+
+Timms, M. (2017). West Tennessee Filipino-American Christmas Party. Retrieved from https://www.jacksonsun.com/picture-gallery/news/local/2017/12/21/west-tennessee-filipino-american-christmas-party/108823520/
+
+United Nations Development Coordination Office. (2024). Waiting for the ‘big one’: Natural hazards in the Philippines. https://un-dco.org/stories/waiting-big-one-natural-hazards-philippines

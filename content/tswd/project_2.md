@@ -10,7 +10,7 @@ tags: "Template"
 
 In Part 1, I developed a wireframe using Canva. This became the basis for Part 2, but with adjustments based on the information I retrieved from the data files and the availability of copyright-free images and videos.
 
-<a href="project_1.md" style="background-color: #fff; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Original Storyboard</b> (Project Phase 1)</a>
+<a href="../project_1" style="background-color: #fff; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Original Storyboard</b> (Project Phase 1)</a>
 
 For Part 2, I moved directly into a high-fidelity mockup/prototype using Shorthand to better visualize the scrolling transitions and stollytelling elements of the narrative. The story follows a specific arc designed to take the reader from nostalgia to reality to action.
 
@@ -51,12 +51,14 @@ To find representative individuals, I reached out to:
 - **Immigrant Filipinos (Older Generation)**: A Filipino-American who moved to the U.S. during their college years, celebrates American Christmas Eve, and is "not too aware of what is going on at home beyond from Facebook headlines."
 - **Non-Filipino-American**: A non-Filipino friend to test if the cultural context (Parols, Simbang Gabi, Christmas Typhoons) makes sense to an outsider.
 
-I also conducted interviews for my Part 1 wireframe, but did not include the results below.
+I also conducted interviews for my Part 1 wireframe, but did not include the results below. Prior to interviews with my specific audience, I will conduct an in-class critique to assess how the website is received by non-Filipinos and non-Filipino/American readers.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-TODO About the goal of user research
+TODO About the goal of user research — looking at emotional resonance, data clarity, and cultural context accessibility
+
+Below is a list of questions I am interested in asking. Some questions may only apply for certain demographics.
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -65,8 +67,10 @@ TODO About the goal of user research
 |To evaluate cultural context|For the terms 'Noche Buena' or 'Bayanihan', did you feel you needed more explanation to understand the significance?|
 |To assess use of data|What did you feel about the use of graphs and statistics? *(Potential Follow-up: Were they overwhelming? Helpful? Necessary?)*|
 |To assess data labeling clarity|Was it clear what the terms "people affected," "people displaced," "damaged houses," and "wellbeing vs asset losses" are?|
+|To assess quote resonance|Do you remember the selected quotes? What were your thoughts on them?|
 |To assess call to action|After reading the end of the story, do you feel like you know how to help?|
-|To see if the coffee comparison landed well|Is the connection between 'coffee money' and 'exchange rate' motivating?|
+|To see if the coffee comparison landed well|Is the connection between 'coffee money' and 'exchange rate' motivating? *(Potential Follow-up: Does it motivate you to donate, or does it feel like marketing?)*|
+|To see sharability|Would you feel comfortable sharing this link with your own family/network?|
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.

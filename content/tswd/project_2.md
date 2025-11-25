@@ -1,6 +1,8 @@
 ---
 title: "Final Project Part 2"
-date: 2025-10-21
+date: 2025-11-25
+featured_image: ../assets/images/featured/TSWD_ProjectSketch2.png
+summary: Development of a high-fidelity Shorthand website prototype, validated by targeted user research focused on the emotional resonance, data clarity, and cultural context accessibility among the Filipino diaspora and friends.
 draft: false
 type: "page"
 tags: "Template"

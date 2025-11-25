@@ -142,6 +142,10 @@ As a disclaimer, some of the information below has been translated, especially w
 | Is the connection between 'coffee money' and 'exchange rate' motivating? | Motivating. I think this would be good for showing people how much their help can mean to a family. | Motivating. I didn't realize the scaling of income. Very low cost to me but high benefit in the Philippines. | Motivating. I wonder who we would send the money to though. It didn’t feel like “marketing” and I think people who reach this part of the website were already interested. | A little bit marketing, but effective. I know it can be tiring sometimes getting asked for help. I still have family at home after all. But I think showing the scale is good. | Highly motivating. I think it was the best part of the call to action and could be it's own page. I know donating can feel burdensome for some especially when we're broke students too, but I didn't realize a $5 bill could go so far. ||
 | Would you feel comfortable sharing this link with your own family/network? | Absolutely. It’s very high-quality. | Yes!! Everyone should know about this. | Maybe, I don't share this type of information usually. | Yes! I think people from my province would relate. | Maybe not since I don't know who I would share it too, but it was very interesting. ||
 
+### Class Feedback
+
+In-class feedback was conducted.
+
 # Identified changes for Part 3
 
 The five interviews from different demographics were very helpful and a lot of insights were taken. The table below outlines potential changes I can consider for Part 3.
@@ -168,13 +172,26 @@ The photography, videography, and quotes were identified as the strongest points
 
 Focusing on clarity, narrative pacing, and accessible explanations will make the experience more meaningful and actionable for a broader audience.
 
-# Moodboards / personas
+<!-- # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
 
-Text here!
+Text here! -->
 
 ## References
-_List any references you used here._
+Bündnis Entwicklung Hilft / IFHV (2025): WorldRiskReport 2025. Berlin: Bündnis Entwicklung Hilft.
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+The Humanitarian Data Exchange. (2022). *The Philippines - Typhoon Impact Data 2014 - 2020.* Retrieved on November 18, 2025 from https://data.humdata.org/dataset/philippines-typhoon-impact-data-2014-2020
+
+Im, C. (2025). *Facts about Filipinos in the U.S.* Retrieved on November 18, 2025 from https://www.pewresearch.org/race-and-ethnicity/fact-sheet/asian-americans-filipinos-in-the-u-s/
+
+IOM Regional Office for Asia and the Pacific Regional Data Hub. (2024). *Country Factsheet: The Philippines.* Retrieved from https://roasiapacific.iom.int/sites/g/files/tmzbdl671/files/documents/2024-12/the-philippines-mecc-factsheet-1.pdf
+
+Magtibay, D. (2025). *Philippines Monthly Typhoon Trend (2014-2024).* Retrieved on November 18, 2025 from https://kaggle.com/datasets/denvermagtibay/philippines-monthly-typhoon-trend-2014-2024
+
+Mascariñas, E. M. & Mogul, R. (2021). *Thousands left homeless and hungry at Christmas as Philippines faces up to climate crisis reality of super typhoon.* Retrieved from https://www.cnn.com/2021/12/27/asia/typhoon-rai-odette-philippines-survivors-climate-intl-hnk-dst
+
+Walsh, B. and Hallegatte, Stephane. 2019. *Measuring Natural Risks in the Philippines: Socioeconomic Resilience and Wellbeing Losses.* Policy Research Working Paper; No. 8723. © World Bank. http://hdl.handle.net/10986/31227 License: CC BY 3.0 IGO.
+
+World Bank Group - Climate Change Knowledge Portal. (n.d.). *Philippines - Climatology (CRU).* Retrieved on November 18, 2025 from https://climateknowledgeportal.worldbank.org/country/philippines/climate-data-historical.
+
+Migration Policy Institute. (2025). *Filipino Immigrants in the United States.* Rerieved on November 18, 2025 from https://www.migrationpolicy.org/article/filipino-immigrants-united-states

@@ -143,21 +143,30 @@ As a disclaimer, some of the information below has been translated, especially w
 | Would you feel comfortable sharing this link with your own family/network? | Absolutely. It’s very high-quality. | Yes!! Everyone should know about this. | Maybe, I don't share this type of information usually. | Yes! I think people from my province would relate. | Maybe not since I don't know who I would share it too, but it was very interesting. ||
 
 # Identified changes for Part 3
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+The five interviews from different demographics were very helpful and a lot of insights were taken. The table below outlines potential changes I can consider for Part 3.
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
+| Research synthesis | Changes to consider for Part III |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Users strongly connected Christmas with typhoon season *only if they were Filipino or Filipino-American*. | This justifies the contextual intro explaining the December typhoon overlap before showing imagery or data. It also may be good to show why exactly the Philippines is prone to storms (i.e., geography, climate).|
+| Emotional imagery (destroyed homes, flooding) was powerful but overwhelming for some viewers. | Maybe use emotional images more sparingly? Some found the photos very helpful and eye-opening. It may be good to alternate more between story and data to reduce emotional fatigue.|
+| Cultural terms like *Noche Buena* and *Bayanihan* were unevenly understood across groups. | [Maybe] add small explanations at the bottom of each page or include a small glossary at the end of the website.|
+| Quotes were highly memorable and helped users emotionally anchor the story. Quotes were more easily recalled than stats. | I think it was a good idea beginning the "Dark Christmas" and "Giving Christmas" sections with quotes, then following with data or information to support the emotional context.         |
+| Sections with many graphs felt dense or overwhelming. Some users skipped these areas. | I think having clearer spaces to outline what the graphs mean may be helpful (or the graphs could be simplified).|
+| Non-Filipino users said the data helped them understand severity but lacked context on why the storms hit hardest. | Add a short explainer on the Philippines’ geography, frequency of cyclones, and vulnerability factors. |
+| Users appreciated breakdowns by island/region but non-Filipino wasn't sure what they were.| Consider adding a geographic visual, in tandem with why the Philippines is prone to storms.|
+| Users didn’t always understand how the "money raised" or "evacuation rate" metrics connected to real outcomes. | Try to find concrete examples of websites to donate to. |
+| Many users said they would help but didn’t know who to share with and what to share. | Strengthen call-to-action section by having a shareable link or caption? |
+| Filipino users valued cultural authenticity and accuracy. Non-Filipinos felt lost at times. | I think here, I would like to prioritize Filipino readers, but I understand that some also do not speak Filipino. Because of this, I will consider adding more translations. |
+| Users said the site felt “high-quality” and trustworthy, making them comfortable sharing it. | Maintain clean design, and maybe add social-sharing buttons. |
+| Multiple people said seeing before/after contrasts was helpful. | Ensure this stays in the final draft. |
 
-> ...include any final thoughts you have here. 
+Across all the interviews, users consistently valued the emotional resonance and cultural authenticity of the story.
+This makes me think about if telling the story in English is the right call or if I should incorporate even more Filipino culture into the story. There was also a need for clearer context, especially for younger audience members.
 
-Text here!
+The photography, videography, and quotes were identified as the strongest points. This leads me to think that people like to hear from people and to *see* human impact. The data was appreciated as additional context, which makes me want to keep it. However, I will try to pull back as to keep it as supplementary.
+
+Focusing on clarity, narrative pacing, and accessible explanations will make the experience more meaningful and actionable for a broader audience.
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section

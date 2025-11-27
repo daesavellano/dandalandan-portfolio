@@ -144,7 +144,7 @@ As a disclaimer, some of the information below has been translated, especially w
 
 ### Class Feedback
 
-In-class feedback was conducted.
+During the in-class feedback session, three second-year MISM classmates gave the website highly positive reviews. The prototype was identified as production-ready and the data visualizations were described as accurate, readable, and digestible. However, similar comments were made to the non-Filipino interviewee. This showed me that some Filipino-specific context was needed if I wanted this to be accessible for non-Filipino viewers such as local non-profit organizations.
 
 # Identified changes for Part 3
 

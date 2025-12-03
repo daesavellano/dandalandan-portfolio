@@ -10,11 +10,30 @@ type: "page"
 # Data visualization examples
 This page contains example data visualizations from the Telling Stories With Data course, along with appropriate citations, references, and data sources used.
 
+- [Visualizing the Titanic Manifesto](#visualizing-the-titanic-manifesto)
 - [Recreating a Gapminder Chart with Tableau](#recreating-a-gapminder-chart)
 - [Government Debt-to-GDP Ratios](#government-debt-to-gdp-ratios)
 - [Learning Tableau and Datawrapper](#learning-tableau-and-datawrapper)
     - Tableau: [Trust in Media](#trust-in-media)
     - Datawrapper: [Popularity of Visualization Types](#popularity-of-datawrapper-visualization-types)
+
+## Visualizing the Titanic Manifesto
+
+Approaching this dataset, I wanted to focus on the claim that women were prioritized during lifeboat deployment.
+
+Analysis of the data confirms that gender was the strongest predictor of survival. However, class was also a strong predictor. While a woman in First Class had a 97% chance of survival, a woman in Third Class saw those odds drop to 50%. A man in second or third class had odds at 15%. This suggests that while gender determined priority, class determined access. Furthermore, men had very low survival rates. However, it is worth mentioning that there were much more men than women and many of those men were in Third Class.
+
+Regarding the visualizations themselves, I created the primary distribution graph to look like an iceberg. I placed the deceased under the waterline to represent drowning. I felt it was important to retain individual data points to show each name as a sign of respect for the victims, especially those who passed away. For the donut chart, I relied on our class prompt's data rather than the passenger log as the numbers were not matching up. I chose to show this to emphasize that a massive chunk of passengers had zero chance of survival simply because there were no lifeboat seats available. Finally, the bar graph was designed to visualize the hierarchy of survival. This shows that the order of safety was gender first, followed immediately by class.
+
+<div class='tableauPlaceholder' id='viz1764795995789' style='position: relative'><noscript><a href='#'><img alt='Titanic Manifesto ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheTitanicManifesto&#47;TitanicManifesto&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TheTitanicManifesto&#47;TitanicManifesto' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheTitanicManifesto&#47;TitanicManifesto&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1764795995789');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width='866px';vizElement.style.height='727px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 ## Recreating a Gapminder Chart with Tableau
 

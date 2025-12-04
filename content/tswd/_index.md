@@ -1,20 +1,17 @@
 ---
 title: "Telling Stories with Data"
-date: 2025-10-21
+date: 2025-12-04
 draft: false
 ---
 
-Welcome to my portfolio for Carnegie Mellon University's Telling Stories with Data (94-870) course for Fall 2025. This page showcases my journey in learning to effectively communicate insights through data visualization and storytelling.
+Welcome to my portfolio for Carnegie Mellon University's Telling Stories with Data (94-870) course for Fall 2025. This page showcases my journey in learning to effectively communicate insights through data visualization and storytelling. This portfolio is integrated into my personal website. To view class-specific assignments, use the "Telling Stories with Data" dropdown in the navigation bar or scroll down to the relevant project.
 
-This portfolio is integrated into my personal website. To view class-specific assignments, use the "Telling Stories with Data" dropdown in the navigation bar or scroll down to the relevant project.
-
-<a href="https://daesavellano.github.io/dandalandan-portfolio/tswd/" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Website</b>: daesavellano.github.io/dandalandan-portfolio/tswd/</a>
-
-<a href="https://github.com/daesavellano/dandalandan-portfolio/tree/main/content/tswd" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Repository</b>: github.com/daesavellano/dandalandan-portfolio/tree/main/content/tswd</a>
-
-<a href="#about-me" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>About</b>: My interest in this class, what I hope to learn, and how I want to apply it</a>
-
-<a href="#portfolio-snapshot" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Portfolio Snapshot</b>: A quick look at what I did in TSWD  with photos and descriptions</a>
+<center>
+<!-- <a href="https://daesavellano.github.io/dandalandan-portfolio/tswd/" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Website</b></a>
+<a href="https://github.com/daesavellano/dandalandan-portfolio/tree/main/content/tswd" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Repository</b></a> -->
+<!-- <a href="#about-me" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>About Me</b></a> -->
+<a href="#a-summary-of-the-above-projects-can-be-found-below" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;">Go to Portfolio Snapshot</a>
+</center>
 
 ## About Me
 
@@ -81,6 +78,10 @@ During the latter half of the course, my efforts were focused on developing my f
 - [Part 3](/tswd/project_3): Documentation of Design Decisions and Motivations
 - [Silent Night, Stormy Plight](/tswd/silent_night_stormy_plight): The Interactive Data Story
 
+#### A summary of the above projects can be found below!
+
 ---
 
-## Portfolio Snapshot
+<center>
+<h1>Portfolio Snapshot</h1>
+</center>

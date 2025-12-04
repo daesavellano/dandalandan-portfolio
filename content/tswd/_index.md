@@ -4,20 +4,20 @@ date: 2025-12-04
 draft: false
 ---
 
-Welcome to my portfolio for Carnegie Mellon University's Telling Stories with Data (94-870) course for Fall 2025. This page showcases my journey in learning to effectively communicate insights through data visualization and storytelling. This portfolio is integrated into my personal website. To view class-specific assignments, use the "Telling Stories with Data" dropdown in the navigation bar or scroll down to the relevant project.
+Welcome to my portfolio for Carnegie Mellon University's Telling Stories with Data (94-870) course for Fall 2025. This page showcases my journey in learning to effectively communicate insights through data visualization and storytelling. To view class-specific assignments, use the "Telling Stories with Data" dropdown in the navigation bar or scroll down to the relevant project.
 
 <center>
-<!-- <a href="https://daesavellano.github.io/dandalandan-portfolio/tswd/" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Website</b></a>
-<a href="https://github.com/daesavellano/dandalandan-portfolio/tree/main/content/tswd" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Repository</b></a> -->
-<!-- <a href="#about-me" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>About Me</b></a> -->
-<a href="#a-summary-of-the-above-projects-can-be-found-below" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;">Go to Portfolio Snapshot</a>
+<!-- <a href="https://daesavellano.github.io/dandalandan-portfolio/tswd/" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Website</b></a> -->
+<a href="https://github.com/daesavellano/dandalandan-portfolio/tree/main/content/tswd" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;">GitHub Repository</a>
+<a href="#about-me" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;">About Me</a>
+<a href="#a-summary-of-the-above-projects-can-be-found-below" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;">Portfolio Snapshot</a>
 </center>
 
 ## About Me
 
 I'm Danielle Aira Savellano (or Dana or Dan), a graduate student pursuing my M.S. in Health Care Analytics and Information Technology at Carnegie Mellon University's Heinz College. With a background in Biology, Computer Science, and Global Health Studies from Allegheny College, I'm passionate about bridging the gap between healthcare and technology through evidence-based, community-focused solutions.
 
-One thing not a lot of people know about me is that I went to a science high school! Throughout that time, I was very interested in art and design. It's no wonder that I now have a mission to translate complex data into actionable (and beautiful) insights that address real-world challenges. Through this class, I hope to develop the skills necessary to tell compelling stories with data that can drive meaningful change in healthcare and public policy.
+One thing not a lot of people know about me is that I went to a science high school. Throughout that time, I was very interested in art and design. It's no wonder that I now have a mission to translate complex data into actionable (and beautiful) insights that address real-world challenges. Through this class, I developed the skills necessary to tell compelling stories with data that can drive meaningful change in healthcare and public policy.
 
 ## What I Hoped to Learn
 
@@ -25,21 +25,13 @@ My career goal is to **use data to inform and improve health policy**. I am flex
 
 Through the Telling Stories with Data course, I did the following:
 
-- **Showcased mastery of data visualization principles.**
-    
-    I created clear, compelling, and accurate visualizations that effectively communicated needed insights
+- **Showcased mastery of data visualization principles**: I created clear, compelling, and accurate visualizations that effectively communicated needed insights.
 
-- **Developed storytelling skills.**
+- **Developed storytelling skills:** I understood how to structure narratives around data to engage audiences and drive action, similar to the [1 pixel wealth](https://eattherichtextformat.github.io/1-pixel-wealth/) example.
 
-    I understood how to structure narratives around data to engage audiences and drive action, similar to the [1 pixel wealth](https://eattherichtextformat.github.io/1-pixel-wealth/) example
+- **Built on my existing Tableau skills:** I improved my dashboarding and visualization skills, building on my experiences with my past two summer internships wherein I worked with Tableau visualizations.
 
-- **Built on my existing Tableau skills.**
-    
-    I improved my dashboarding and visualization skills, building on my experiences with my past two summer internships wherein I worked with Tableau
-
-- **Built a professional portfolio.**
-
-    I created a collection of data stories and finally finished (a draft of) my portfolio so that I can demonstrate my capabilities to potential employers and collaborators!
+- **Built a professional portfolio:** I created a collection of data stories and finally finished (a draft of) my portfolio so that I can demonstrate my capabilities to potential employers and collaborators!
 
 ## Portfolio
 
@@ -65,11 +57,11 @@ Throughout the seven-week course, I developed a number of sample visualizations.
     - [NBA Play-by-Play Analysis](/tswd/basketball)
     - [Pittsburgh Redlining](https://public.tableau.com/views/PittsburghRedlining_17625063339580/Redlining?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
-### [Critique by Design](/tswd/critique)
+### Critique by Design
 
-The Critique by Design assignment was a very iterative process, which included a brief user research feedback loop.
+The [Critique by Design](/tswd/critique) assignment was a very iterative process, which included a brief user research feedback loop.
 
-### Final Project
+### [Final Project]
 
 During the latter half of the course, my efforts were focused on developing my final project. This focused on the idea of Christmas typhoons in the Philippines from the view of the Filipino-American diaspora.
 

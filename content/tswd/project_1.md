@@ -5,7 +5,6 @@ featured_image: ../assets/images/featured/TSWD_ProjectSketch1.png
 summary: Proposal for a web-hosted data story outlining the narrative, data sources, and initial storyboard to visualize the humanitarian impact of Christmas typhoons on the Philippines and actionable steps for the diaspora.
 draft: false
 type: "page"
-tags: "Template"
 ---
 
 ## Outline

@@ -5,7 +5,6 @@ featured_image: ../assets/images/featured/TSWD_ProjectSketch2.png
 summary: Development of a high-fidelity Shorthand website prototype, validated by targeted user research focused on the emotional resonance, data clarity, and cultural context accessibility among the Filipino diaspora and friends.
 draft: false
 type: "page"
-tags: "Template"
 ---
 
 - [Website](#website-prototype)

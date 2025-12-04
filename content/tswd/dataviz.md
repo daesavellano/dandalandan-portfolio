@@ -11,7 +11,7 @@ type: "page"
 This page contains example data visualizations from the Telling Stories With Data course, along with appropriate citations, references, and data sources used.
 
 - [Visualizing the Titanic Manifesto](#visualizing-the-titanic-manifesto)
-- [Recreating a Gapminder Chart with Tableau](#recreating-a-gapminder-chart)
+- [Recreating a Gapminder Chart with Tableau](#recreating-a-gapminder-chart-with-tableau)
 - [Government Debt-to-GDP Ratios](#government-debt-to-gdp-ratios)
 - [Learning Tableau and Datawrapper](#learning-tableau-and-datawrapper)
     - Tableau: [Trust in Media](#trust-in-media)
@@ -34,6 +34,8 @@ Regarding the visualizations themselves, I created the primary distribution grap
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+Dataset was obtained from https://raw.githubusercontent.com/rawgraphs/rawgraphs-core/master/data/titanic.tsv.
 
 ## Recreating a Gapminder Chart with Tableau
 

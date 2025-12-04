@@ -8,9 +8,9 @@ Welcome to my portfolio for Carnegie Mellon University's Telling Stories with Da
 
 <center>
 <!-- <a href="https://daesavellano.github.io/dandalandan-portfolio/tswd/" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Website</b></a> -->
-<a href="https://github.com/daesavellano/dandalandan-portfolio/tree/main/content/tswd" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;">GitHub Repository</a>
 <a href="#about-me" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;">About Me</a>
 <a href="#a-summary-of-the-above-projects-can-be-found-below" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;">Portfolio Snapshot</a>
+<a href="https://github.com/daesavellano/dandalandan-portfolio/tree/main/content/tswd" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;">GitHub Repository</a>
 </center>
 
 ## About Me
@@ -61,7 +61,7 @@ Throughout the seven-week course, I developed a number of sample visualizations.
 
 The [Critique by Design](/tswd/critique) assignment was a very iterative process, which included a brief user research feedback loop.
 
-### [Final Project]
+### Final Project
 
 During the latter half of the course, my efforts were focused on developing my final project. This focused on the idea of Christmas typhoons in the Philippines from the view of the Filipino-American diaspora.
 

@@ -9,7 +9,7 @@ type: "page"
 
 <div style="
     position: fixed; 
-    top: 70px; 
+    top: 65px; 
     left: 0; 
     width: 100%; 
     height: calc(120vh - 120px); 

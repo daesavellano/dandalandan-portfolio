@@ -2,10 +2,12 @@
 title: "Final Project Part 3"
 date: 2025-12-03
 featured_image: ../assets/images/featured/TSWD_ProjectSketch3.png
-summary: Final iteration of a Shorthand website visualizing the human cost of Christmas storms in the Philippines and how the diaspora can help rebuild.
+summary: Documentation of design decisions and reflection on motivations behind "Silent Night, Stormy Plight"—a Shorthand data story visualizing the human cost of Christmas typhoons in the Philippines.
 draft: false
 type: "page"
 ---
+
+<center><img src="/images/posts/tswd/final_project/part_three/0_lightning.png" alt="Stormy Night, Stormy Plight" style="max-width: 100%; height: auto;" /></center>
 
 # Table of Contents 
 
@@ -26,11 +28,12 @@ type: "page"
     - [Why My Heart Is In The Work](#why-my-heart-is-in-the-work)
         - [Putting My Motivations Last](#putting-my-motivations-last): A Reflection
         - [A Mix of Head and Heart (Quantitative and Qualitative Factors)](#a-mix-of-head-and-heart-quantitative-and-qualitative-factors)
-
+- [References](#references)
+- [Phase Links](#phase-links)
 
 # The Final Data Story
 
-<a href="https://carnegiemellon.shorthandstories.com/silent-night-stormy-plight-the-typhoons-that-stole-filipino-christmas/index.html" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Silent Night, Stormy Plight</b></a>
+<a href="../silent_night_stormy_plight" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Silent Night, Stormy Plight</b></a>
 
 For the final version, I focused on improving the emotional storytelling by providing critical context to help ground the narrative in both geography and economic reality.
 
@@ -157,4 +160,16 @@ I designed two distinct visual elements to represent my motivating factors:
 
 # References
 
-All references are included in the final data story, along with links to all images and videos from Unsplash and Pexels.
+All references are included in the final Shorthand data story, along with links to all images and videos from Unsplash and Pexels. References during Parts 1 and 2 are found in those respective sections.
+
+# Phase Links
+
+Interested in seeing the steps leading up to the final version?
+
+<a href="../project_1" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Initial Wireframe and Data Sources</b> (Project Phase 1)</a>
+
+<a href="../project_2" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>First Prototype and User Research</b> (Project Phase 2)</a>
+
+<a href="../silent_night_stormy_plight" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Final Website through Portfolio</b> (Project Phase 3)</a>
+
+<a href="https://carnegiemellon.shorthandstories.com/silent-night-stormy-plight-the-typhoons-that-stole-filipino-christmas/index.html" style="background-color: #D8BFE3; color: #121729; padding: 12px 20px; display: inline-block; border-radius: 14px;"><b>Final Website through Shorthand</b> (Project Phase 3)</a>

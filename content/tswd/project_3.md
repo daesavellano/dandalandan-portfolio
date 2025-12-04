@@ -20,7 +20,12 @@ type: "page"
     - [Elevating Human Impact with Quotes and Statistics](#elevating-human-impact-with-quotes-and-statistics)
         - [Quotes as a Section Breaker](#quotes-as-a-section-breaker)
         - [General and Christmas-Specific Impact](#general-and-christmas-specific-impact)
-    - Elevating Human Impact with Quotes and Statistics
+    - [Two-Part Call to Action](#two-part-call-to-action)
+        - [A Comprehensive List](#a-comprehensive-list)
+        - [A Digestible Graphic](#a-digestible-graphic)
+    - [Why My Heart Is In The Work](#why-my-heart-is-in-the-work)
+        - [Putting My Motivations Last](#putting-my-motivations-last): A Reflection
+        - [A Mix of Head and Heart (Quantitative and Qualitative Factors)](#a-mix-of-head-and-heart-quantitative-and-qualitative-factors)
 
 
 # The Final Data Story
@@ -62,7 +67,7 @@ For the final design, I loosely used a Christmas-adjacent color scheme with dark
 
 ### Lightning Videography in Title Page
 
-In the title page, we can immediately see a storm brewing.
+In the title page, we can immediately see a storm brewing. The lightning flashing in the background helps set the mood.
 
 <!-- Title Page -->
 <center><img src="/images/posts/tswd/final_project/part_three/0_lightning.png" alt="Title Page" style="max-width: 70%; height: auto;" /></center>
@@ -102,7 +107,9 @@ I created the impact sections to show a macro-view of general impacts of storms 
     <img src="/images/posts/tswd/final_project/part_three/31_impact_christmas_typhoon.png" alt="The Diaspora's Dilemma" style="max-width:48%; width:48%; height:auto;" />
 </div>
 
-## 
+## Two-Part Call to Action
+
+I wanted to provide users with agency, but I didn't want the ending to be too overwhelming. To solve this, I created a two-part call to action:
 
 <!-- Call to Action: Long and Short -->
 
@@ -110,6 +117,36 @@ I created the impact sections to show a macro-view of general impacts of storms 
     <img src="/images/posts/tswd/final_project/part_three/40_call_to_action.png" alt="Call to Action: Videos" style="max-width:48%; width:48%; height:auto;" />
     <img src="/images/posts/tswd/final_project/part_three/41_call_to_action_simple.png" alt="Call to Action: Handdrawn" style="max-width:48%; width:48%; height:auto;" />
 </div>
+
+### A Comprehensive List
+
+First, I included a longer list of ways to help. This establishes credibility and offers options for users who want to dive deep (volunteering, specific NGOs, advocacy). Currently, there are not many organizations listed (only 5), but this is something I would have wanted to improve with time.
+
+### A Digestible Graphic
+
+To hone in on the power of the dollar, I created a simplified, hand-drawn graphic. This is similar to what I originally wanted to do in my wireframe, but had trouble of visualizing. This choice was made specifically after consulting with the professor. This visualizes a low-barrier entry point (the price of a coffee and sandwich) so even if a reader skimmed the long list, they would leave with one digestible (and hopefully memorable!) action item.
+
+## Why My Heart Is In The Work
+
+### Putting My Motivations Last
+
+I felt it was important to show *why* this story matters to me, both logically and emotionally. I chose to place this section at the very end of the narrative, after the "Thank You" but before the references.
+
+During the feedback process, my professor asked a valid question: **Why not lead with this?** Why not start the story with my personal connection?
+
+The answer is simple: **This story isn't mine alone.**
+
+While my experience validates the narrative, centering myself first would narrow the scope. Yes, I grew up with floods. I have seen beds floating, I have waded through rising waters, I have had memories destroyed, and I recall doing disaster drills as early as second grade—mapping out evacuation routes for my house and preparing emergency kits for flashlights, food, and meds. I remember the details vividly: bathing in the dark with only storm water (the pipes were no longer running), doing homework by candlelight (afraid of the many bugs that were also seeking refuge from the rain), and listening to the howling of stray dogs outside (they had nowhere to go).
+
+However, **my story is not the worst of it**. And, to be honest, I pushed back most of it until I started writing this reflection piece. Today, I watch from the safety of the U.S., feeling the specific helplessness of the diaspora. Sometimes, it's guilt—*guilt because it's so much easier to not pay attention*. By placing my story at the end, I ensure the focus remains on the community currently on the ground, while still showing the user where my passion stems from.
+
+### A Mix of Head and Heart (Quantitative and Qualitative Factors)
+
+I designed two distinct visual elements to represent my motivating factors:
+
+- **Quantitative** (The Opportunity): I used data to show the sheer scale of the Filipino-American community (4.1 million). I also showed how there are massive hubs of potential donors and advocates across the U.S. that could be mobilized.
+
+- **Qualitative** (The Personal Connection): While I didn't tell the story above, I did mention some specific details from more recent years of my life. I moved to the U.S. in 2021 and watched Typhoon Odette's impact from 8,000 miles away. While I was fortunate enough to be funded for a service-based internship during the following summer, most of the diaspora doesn't have that privilege. I also mentioned conversations I had with the local Filipino-American Association of Pittsburgh This visual bridges the gap between my memories and my current reality.
 
 <!-- Motivation: Quantitative and Qualitative -->
 
@@ -121,8 +158,3 @@ I created the impact sections to show a macro-view of general impacts of storms 
 # References
 
 All references are included in the final data story, along with links to all images and videos from Unsplash and Pexels.
-
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!

@@ -1,6 +1,6 @@
 ---
 title: "Final Project Part 3"
-date: 2025-12-05
+date: 2025-12-03
 featured_image: ../assets/images/featured/TSWD_ProjectSketch3.png
 summary: Final iteration of a Shorthand website visualizing the human cost of Christmas storms in the Philippines and how the diaspora can help rebuild.
 draft: false

@@ -7,20 +7,6 @@ draft: false
 type: "page"
 ---
 
-<!-- <div style="
-    position: fixed; 
-    top: 80px; 
-    left: 0; 
-    width: 100%; 
-    height: calc(120vh - 120px);
-    margin: 0; 
-    padding: 0; 
-    z-index: 1;
-    overflow-y: auto; /* Allows scrolling inside this box if needed */
-    overflow-x: hidden;">
-<script src="https://carnegiemellon.shorthandstories.com/silent-night-stormy-plight-the-typhoons-that-stole-filipino-christmas/embed.js"></script>
-</div> -->
-
 <div style="
     position: fixed; 
     top: 70px; 
@@ -29,8 +15,7 @@ type: "page"
     height: calc(120vh - 120px); 
     display: flex; 
     flex-direction: column; 
-    z-index: 1;
-    background: #fff;">
+    z-index: 1;">
 
 <iframe 
     src="https://carnegiemellon.shorthandstories.com/silent-night-stormy-plight-the-typhoons-that-stole-filipino-christmas/index.html"

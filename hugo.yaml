@@ -294,6 +294,10 @@ menu:
       name: Final Project Part 3
       url: /dandalandan-portfolio/tswd/project_3/
       weight: 60
+    - identifier: silent_night_stormy_plight
+      name: Silent Night, Stormy Plight
+      url: /dandalandan-portfolio/tswd/silent_night_stormy_plight/
+      weight: 60
   contact:
     - identifier: linkedin
       pre: stars # can be stars, comments or piechart

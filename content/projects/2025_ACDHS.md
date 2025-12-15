@@ -15,9 +15,9 @@ categories: Featured
 tags: ["Data Analysis","Policy","Health"]
 ---
 
-### Summary
+<center><img src="/images/posts/ACDHS/TitleSlide.png" alt="Title Slide" style="max-width: 100%; height: auto;" /></center>
 
-**Summer 2025 Data Analytics Internship**
+### Summer 2025 Data Analytics Internship
 
 During Summer 2025, I worked as a **Data Analytics Intern** with the Allegheny County Department of Human Services (DHS), focusing on the intersection of **maternal health and incarceration**. My exploratory project sought to better understand the needs and experiences of **pregnant and postpartum individuals in the Allegheny County Jail (ACJ)**.
 

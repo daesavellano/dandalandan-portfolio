@@ -4,8 +4,7 @@ date: 2025-03-21
 season: A.Y. 2024-2025
 draft: false
 language: en
-featured_image: ../assets/images/featured/DVizDash.png
-markdown_image: images/featured/kalfi_daniw.jpeg
+featured_image: ../assets/images/featured/Projects_2025_03_DVizDash.png
 summary: Added k-means and k-prototypes clustering functionality to an R-based disease risk visualization tool to identify groups of patients with similar profiles, enabling the identification of key shared characteristics.
 description: This project focused on enhancing DataViz Version 5, a visualization tool designed to analyze large patient risk datasets. My work utilized k-means and k-prototypes clustering to identify groups of patients with similar risk profiles, enabling the identification of key characteristics associated with the disease. The tool's new features were integrated into an R Shiny-based user interface, providing an interactive web experience for users.
 author: Carnegie Mellon University

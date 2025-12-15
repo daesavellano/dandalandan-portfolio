@@ -4,14 +4,14 @@ date: 2022-07-21
 season: Summer 2022
 draft: false
 language: en
-featured_image: ../assets/images/featured/kalfi_daniw.jpeg
+featured_image: ../assets/images/featured/Projects_2022_07_KALFI.png
 markdown_image: images/featured/kalfi_daniw.jpeg
 summary: Planned and implemented outreach activities and a rural service project with the Daniw Study Center, including volunteer orientation, preparation of materials, and tutorials for children from kindergarten to 6th grade.
 description: 
 author: Kalinangan Youth Foundation, Inc.
 location: Quezon City, Philippines
 authorimage: ../assets/images/global/logos/logo_kalfi.png
-categories: Featured
+# categories: Featured
 tags: ["Community Development"]
 ---
 

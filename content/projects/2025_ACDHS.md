@@ -4,7 +4,7 @@ date: 2025-07-21
 season: Summer 2025
 draft: false
 language: en
-featured_image: ../assets/images/featured/ACDHS-Interns.png
+featured_image: ../assets/images/featured/Projects_2025_07_ACDHS.png
 markdown_image: images/featured/ACDHS-Interns.png
 summary: Analyzed the backgrounds, experiences, and service involvement of incarcerated women to understand maternal health in corrections, utilizing SQL and Tableau for data extraction and visualization.
 description: Summer 2025 Data Analytics Internship | During my time as a Data Analytics Intern with the Allegheny County Department of Human Services, I was tasked with an exploratory project to better understand the needs of pregnant and postpartum individuals in the Allegheny County Jail. I developed a Tableau dashboard, mapped out key processes through flowcharts, and synthesized reports and presentations to share my findings.
